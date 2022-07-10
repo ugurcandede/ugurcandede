@@ -1,11 +1,11 @@
 ## Hi there <a href="https://www.linkedin.com/in/ugurcandede/" rel="nofollow"><img src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" width="30px" style="max-width:100%;">
 </a>
 
-I'm <a href="https://github.com/ugurcandede">Ugurcan</a>, I graduated from @Uludag University MIS department.
+I'm <a href="https://github.com/ugurcandede">Ugurcan</a>, I graduated from @Uludag University MIS department and I'm working as a full-time Java developer at <a href="https://grispi.com">Grispi</a>.
 
 I enjoy being challenged and working on new projects. I am always trying to learn new skills and development techniques.
 
-In particular, i like to experience new technologies and learn new programing languages as part of my career progression.  
+In particular, I like to experience new technologies and learn new programming languages as part of my career progression.
 
 
 [![Linkedin Badge](https://img.shields.io/badge/ugurcandede-gray?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ugurcandede/)
