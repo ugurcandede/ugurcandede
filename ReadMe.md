@@ -1,4 +1,4 @@
-## Hi there <a href="https://www.linkedin.com/in/ugurcandede/" rel="nofollow"><img src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" width="30px" style="max-width:100%;">
+## Hi there <a href="https://www.linkedin.com/in/ugurcandede/" rel="nofollow"><img src="https://raw.githubusercontent.com/mPass-Password-Manager/dummy-repo/master/waving-hand.gif?token=GHSAT0AAAAAACKDRBHFYK5Y3VQVBZMQQ2IQZOXL7EA" width="30px" style="max-width:100%;">
 </a>
 
 I'm <a href="https://github.com/ugurcandede">Ugurcan</a>, I graduated from @Uludag University MIS department and I'm working as a full-time Java developer at <a href="https://github.com/grispiapp">Grispi</a>.
@@ -12,10 +12,3 @@ In particular, I like to experience new technologies and learn new programming l
 [![Instagram Badge](https://img.shields.io/badge/ugurcandede-gray?style=for-the-badge&logo=instagram)](https://www.instagram.com/ugurcan.dede/)
 [![Github Badge](https://img.shields.io/badge/ugurcandede-gray?style=for-the-badge&logo=github)](https://github.com/ugurcandede)
 [![DockerHub Badge](https://img.shields.io/badge/ugurcandede-gray?style=for-the-badge&logo=docker)](https://hub.docker.com/u/ugurcandede)
-
-<p align="center" >
-  <a href="https://github.com/ugurcandede"> 
-    <img height="160px" alt="ugurcandede's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ugurcandede&show_icons=true&hide_border=true&theme=radical&count_private=true"/>
-    <img height="160px" alt="ugurcandede's Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ugurcandede&layout=compact&hide_border=true&theme=radical&count_private=true" />
-  </a>
-</p>
