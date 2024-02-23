@@ -1,4 +1,4 @@
-## Hi there <a href="https://www.linkedin.com/in/ugurcandede/" rel="nofollow"><img src="https://raw.githubusercontent.com/mPass-Password-Manager/dummy-repo/master/waving-hand.gif?token=GHSAT0AAAAAACKDRBHFYK5Y3VQVBZMQQ2IQZOXL7EA" width="30px" style="max-width:100%;">
+## Hi there <a href="https://www.linkedin.com/in/ugurcandede/" rel="nofollow"><img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGJyN2tydnB3YXVub3U0OGI4cXN1cjJ1c2s3aTkxMHEzdnBlZ2RscSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/JaXTSb6Xg1Uwi2bl7U/source.gif" width="30px" style="max-width:100%;">
 </a>
 
 I'm <a href="https://github.com/ugurcandede">Ugurcan</a>, I graduated from @Uludag University MIS department and I'm working as a full-time Java developer at <a href="https://github.com/grispiapp">Grispi</a>.
