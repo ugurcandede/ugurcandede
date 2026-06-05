@@ -161,6 +161,7 @@
     <text x="310" y="339">
       <tspan class="accent-yellow" font-weight="600">Grispi</tspan> <tspan class="text-body"> since 2022 — Lately pushing into full-stack territory.</tspan>
     </text>
-    <text class="text-body" x="310" y="368"> After hours I ship small tools: TapLock, claude-symlink, a Windows Terminal layout generator.</text>
+    <text class="text-body" x="310" y="368"> <tspan class="accent-yellow" font-weight="600">After hours I ship small tools:</tspan> TapLock, claude-symlink, roadie, lumea and Windows </text>
+    <text class="text-body" x="310" y="385"> Terminal layout generator.</text>
   </g>
 </svg>
