@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 260 212" width="260" height="212">
+  <style>
+    .frame        { fill: #0f1114; stroke: #2a3036; }
+    .titlebar     { fill: #12151a; }
+    .border       { stroke: #2a3036; }
+    .text-body    { fill: #d4d4d4; }
+    .text-muted   { fill: #7a8087; }
+    .accent-green { fill: #4ade80; }
+    .accent-cyan  { fill: #22d3ee; }
+
+    @media (prefers-color-scheme: light) {
+      .frame        { fill: #ffffff; stroke: #cbd5e1; }
+      .titlebar     { fill: #f1f5f9; }
+      .border       { stroke: #cbd5e1; }
+      .text-body    { fill: #334155; }
+      .text-muted   { fill: #64748b; }
+      .accent-green { fill: #16a34a; }
+      .accent-cyan  { fill: #0891b2; }
+    }
+  </style>
+
+  <!-- terminal frame -->
+  <rect class="frame" x="1" y="1" width="518" height="210" rx="10" stroke-width="1.5"/>
+
+  <!-- title bar -->
+  <path class="titlebar" d="M 11 1.75 H 509 A 9.25 9.25 0 0 1 518.25 11 V 34 H 1.75 V 11 A 9.25 9.25 0 0 1 11 1.75 Z"/>
+  <line class="border" x1="1" y1="34" x2="519" y2="34" stroke-width="1"/>
+
+  <!-- traffic lights (theme-invariant) -->
+  <circle cx="20" cy="18" r="5" fill="#ef4444"/>
+  <circle cx="36" cy="18" r="5" fill="#f59e0b"/>
+  <circle cx="52" cy="18" r="5" fill="#22c55e"/>
+
+  <!-- session tab -->
+  <text class="accent-green" x="260" y="22" text-anchor="middle"
+        font-family="'JetBrains Mono', 'Fira Code', monospace" font-size="12" font-weight="700" letter-spacing="0.3">[wt-layout]</text>
+
+  <g font-family="'JetBrains Mono', 'Fira Code', 'Consolas', monospace">
+    <!-- prompt -->
+    <text x="22" y="62" font-size="14" font-weight="700">
+      <tspan class="accent-green">~/</tspan><tspan class="accent-cyan">windows-terminal-multi-panel-setup-generator</tspan>
+    </text>
+
+    <!-- description -->
+    <text class="text-body" x="22" y="90" font-size="13">Visual editor for multi-pane Windows Terminal</text>
+    <text class="text-body" x="22" y="108" font-size="13">layouts — export as PowerShell, JSON or batch.</text>
+
+    <!-- footer -->
+    <line class="border" x1="22" y1="128" x2="498" y2="128" stroke-width="1"/>
+    <circle cx="28" cy="148" r="6" fill="#3178C6"/>
+    <text class="text-body" x="42" y="152" font-size="12" font-weight="600">TypeScript</text>
+    <text class="text-muted" x="498" y="152" font-size="12" text-anchor="end">Web</text>
+
+    <!-- link bar -->
+    <line class="border" x1="1" y1="170" x2="519" y2="170" stroke-width="1"/>
+    <text class="text-body" x="130" y="196" font-size="13" font-weight="600" text-anchor="middle"><tspan class="accent-green">-&gt;</tspan> repo</text>
+    <line class="border" x1="260" y1="170" x2="260" y2="210" stroke-width="1"/>
+    <text class="text-body" x="390" y="196" font-size="13" font-weight="600" text-anchor="middle"><tspan class="accent-green">-&gt;</tspan> live app</text>
+  </g>
+</svg>
