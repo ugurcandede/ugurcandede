@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 260 212" width="260" height="212">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 212" width="520" height="212">
   <style>
     .frame        { fill: #0f1114; stroke: #2a3036; }
     .titlebar     { fill: #12151a; }
@@ -34,28 +34,32 @@
 
   <!-- session tab -->
   <text class="accent-green" x="260" y="22" text-anchor="middle"
-        font-family="'JetBrains Mono', 'Fira Code', monospace" font-size="12" font-weight="700" letter-spacing="0.3">[wt-layout]</text>
+        font-family="'JetBrains Mono', 'Fira Code', monospace" font-size="12" font-weight="700" letter-spacing="0.3">[apps]</text>
 
   <g font-family="'JetBrains Mono', 'Fira Code', 'Consolas', monospace">
     <!-- prompt -->
     <text x="22" y="62" font-size="14" font-weight="700">
-      <tspan class="accent-green">~/</tspan><tspan class="accent-cyan">windows-terminal-multi-panel-setup-generator</tspan>
+      <tspan class="accent-green">~/</tspan><tspan class="accent-cyan">apps</tspan>
     </text>
 
+    <!-- logo -->
+    <svg x="442" y="46" width="56" height="56" viewBox="0 0 64 64">
+      <rect width="64" height="64" rx="14" fill="#0c0d10"/>
+      <rect x="12" y="12" width="18" height="18" rx="5" fill="#22c55e"/>
+      <rect x="34" y="12" width="18" height="18" rx="5" fill="#fb7185"/>
+      <rect x="12" y="34" width="18" height="18" rx="5" fill="#ff7a18"/>
+      <rect x="34" y="34" width="18" height="18" rx="5" fill="#3b82f6"/>
+    </svg>
+
     <!-- description -->
-    <text class="text-body" x="22" y="90" font-size="13">Visual editor for multi-pane Windows Terminal</text>
-    <text class="text-body" x="22" y="108" font-size="13">layouts — export as PowerShell, JSON or batch.</text>
+    <text class="text-body" x="22" y="90" font-size="13">Small apps for Mac and Windows, plus the</text>
+    <text class="text-body" x="22" y="108" font-size="13">terminal tools — every project in one place.</text>
 
     <!-- footer -->
     <line class="border" x1="22" y1="128" x2="498" y2="128" stroke-width="1"/>
-    <circle cx="28" cy="148" r="6" fill="#3178C6"/>
-    <text class="text-body" x="42" y="152" font-size="12" font-weight="600">TypeScript</text>
-    <text class="text-muted" x="498" y="152" font-size="12" text-anchor="end">Web</text>
 
     <!-- link bar -->
     <line class="border" x1="1" y1="170" x2="519" y2="170" stroke-width="1"/>
-    <text class="text-body" x="130" y="196" font-size="13" font-weight="600" text-anchor="middle"><tspan class="accent-green">-&gt;</tspan> repo</text>
-    <line class="border" x1="260" y1="170" x2="260" y2="210" stroke-width="1"/>
-    <text class="text-body" x="390" y="196" font-size="13" font-weight="600" text-anchor="middle"><tspan class="accent-green">-&gt;</tspan> live app</text>
+    <text class="text-body" x="260" y="196" font-size="13" font-weight="600" text-anchor="middle"><tspan class="accent-green">-&gt;</tspan> browse all apps &amp; tools</text>
   </g>
 </svg>

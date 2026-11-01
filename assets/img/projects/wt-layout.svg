@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="260 0 260 212" width="260" height="212">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 212" width="520" height="212">
   <style>
     .frame        { fill: #0f1114; stroke: #2a3036; }
     .titlebar     { fill: #12151a; }
@@ -39,7 +39,7 @@
   <g font-family="'JetBrains Mono', 'Fira Code', 'Consolas', monospace">
     <!-- prompt -->
     <text x="22" y="62" font-size="14" font-weight="700">
-      <tspan class="accent-green">~/</tspan><tspan class="accent-cyan">windows-terminal-multi-panel-setup-generator</tspan>
+      <tspan class="accent-green">~/</tspan><tspan class="accent-cyan">wt-layout</tspan>
     </text>
 
     <!-- description -->
